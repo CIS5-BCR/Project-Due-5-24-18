@@ -24,6 +24,6 @@ Restrictions:                       All of the character arrays used for inputmu
 Dependencies and assumptions:       User must understand english for this program to be of any use. Program relies on
                                     the MASM32 SDK
             
-Technical Funtionalities:           Program requests and outputs user data at multiple points. There are two main
+Technical Functionalities:           Program requests and outputs user data at multiple points. There are two main
                                     subroutines called mainInput and storyTime. All user input is gathered in mainInput.
          
