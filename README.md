@@ -8,9 +8,11 @@ Members:    Joshua Bocanegra
             Mike Ryan
             
 Professor:  Casey Nyguyen
+
 Project Information:    MASM32 win32 Application Project
 
 Lib Mad - Application Details
+
 Primary Purpose:                    The purpose of Lib Mad is to playa word game with the user.     
 
 Scope:                              This program is only a single story that is only interesting for a single run.
