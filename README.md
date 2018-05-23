@@ -27,3 +27,18 @@ Dependencies and assumptions:       User must understand english for this progra
 Technical Functionalities:           Program requests and outputs user data at multiple points. There are two main
                                     subroutines called mainInput and storyTime. All user input is gathered in mainInput.
          
+Text Adventure - Application Details
+
+Primary Purpose:                    The application is a "game" that sets up a scenario and then accepts user input to 
+                                    branch to what is most likely a lose state.
+
+Scope:                              This is a small program where you will have seen everything within 3 tries.
+
+Restrictions:                       The program only responds to 4 user inputs. Attack or attack will lead to one scenario,
+                                    Flee or flee will lead to a second scenario and anything else leads to a third scenario.
+
+Dependencies and assumptions:       Requires masm32 libraries and assumes user can read and understand english. 
+                                    A keyboard is required for text input.
+
+Technical Functionalities:          Program displays a string of text and then accepts user input to branch to one 
+                                    of three scenarios. After the scenario is displayed it waits for a key to be pressed and exits the program.
