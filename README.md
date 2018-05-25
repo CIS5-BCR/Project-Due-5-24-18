@@ -48,13 +48,15 @@ Technical Functionalities:          Program displays a string of text and then a
                                     
 Single Bet Craps - Application Details
 
-Primary Purpose:                    
+Primary Purpose:                    The application is a game that is simulates a single die roll. The program accepts a user's number                                       and it branches to a win message if the number matches the rolled number or a lose message if not.
 
-Scope:                              
+Scope:                              This is a small program that can be used over and over as needed to mimic the probability of a 1-6                                       die roll
 
-Restrictions:                      
+Restrictions:                       Input only accepts a number between a number 1 - 6. Any other value will result in an automatic 
+                                    lose message.
 
-Dependencies and assumptions:       
-
-Technical Functionalities:          
+Dependencies and assumptions:       Requires masm32 libraries and assumes user can read and understand english. 
+                                    A keyboard is required for text input.
+                                    
+Technical Functionalities:          Program displays greeting text then accepts user input (numbers 1 - 6). Program then converts user's                                     ASCII input to DWORD. Program then generates random number. Program then compares the user's number                                     and the random number. Program branches to win message if true or lose message if false.
 
