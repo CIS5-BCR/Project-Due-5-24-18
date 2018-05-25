@@ -13,6 +13,7 @@ Project Information:    MASM32 win32 Application Project
 
 Lib Mad - Application Details
 
+
 Primary Purpose:                    The purpose of Lib Mad is to playa word game with the user.     
 
 Scope:                              This program is only a single story that is only interesting for a single run.
@@ -26,6 +27,7 @@ Dependencies and assumptions:       User must understand english for this progra
             
 Technical Functionalities:           Program requests and outputs user data at multiple points. There are two main
                                     subroutines called mainInput and storyTime. All user input is gathered in mainInput.
+         
          
 Text Adventure - Application Details
 
@@ -41,4 +43,18 @@ Dependencies and assumptions:       Requires masm32 libraries and assumes user c
                                     A keyboard is required for text input.
 
 Technical Functionalities:          Program displays a string of text and then accepts user input to branch to one 
-                                    of three scenarios. After the scenario is displayed it waits for a key to be pressed and exits the program.
+                                    of three scenarios. After the scenario is displayed it waits for a key to be pressed and
+                                    exits the program.
+                                    
+Single Bet Craps - Application Details
+
+Primary Purpose:                    
+
+Scope:                              
+
+Restrictions:                      
+
+Dependencies and assumptions:       
+
+Technical Functionalities:          
+
